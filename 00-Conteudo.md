@@ -1,6 +1,6 @@
-#Conteudo programatico Concurso TAE UFPA 2019
+# Conteudo programatico Concurso TAE UFPA 2019
 
-##1. Legislação:
+## Legislação:
 1. Regime Jurídico Único dos Servidores Públicos Civil da União, das Autarquias e das Fundações
 Públicas Federais (Lei no 8.112/90 e suas alterações):
 * Título II – Do Provimento, Vacância, Remoção, Redistribuição e Substituição;
